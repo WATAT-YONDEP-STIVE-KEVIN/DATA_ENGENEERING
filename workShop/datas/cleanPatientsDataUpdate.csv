@@ -1,0 +1,4 @@
+PatientID, FirstName, LastName, DateOfBirth, VisitDate, Diagnosis;,1, ’Rahul’, ’Sharma’, ’1985-04-23’, ’2024-08-01’, ’cholera’;
+1.0, ’Rahul’, ’Sharma’, ’1985-04-23’, ’2024-08-01’, ’Fever’;,,,,,,
+2.0, ’Priya’, ’Kumar’, ’1990-07-11’, ’2024-08-02’, ’Diabetes’;,,,,,,
+3.0, ’Amit’, ’Singh’, ’1975-09-17’, ’2024-08-03’, ’Hypertension’;,,,,,,
